@@ -1,0 +1,6 @@
+[book]
+authors = ["Joseph Zhao"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Uniswap V3 Development Book中文版"
